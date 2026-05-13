@@ -41,7 +41,7 @@ Hey {Name},<br><br>
 
   <br>
 
-  <table border="1" cellpadding="8" cellspacing="0" style="border-collapse: collapse;">
+  <table border="1" cellpadding="8" cellspacing="0">
     <tr>
       <td><strong>Sample campaigns</strong></td>
       <td>
@@ -71,10 +71,9 @@ Hey {Name},<br><br>
   </p>
 
   <img
-    src="YOUR_IMAGE_LINK_HERE"
+    src="https://freeimage.host/i/BmTllgj"
     alt="UMBR Billboard"
     width="520"
-    style="display: block;"
   />
 
   <br><br>
