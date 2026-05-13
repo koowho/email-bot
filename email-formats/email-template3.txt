@@ -45,17 +45,18 @@ Hey {Name},<br><br>
     <tr>
       <td><strong>Sample campaigns</strong></td>
       <td>
-        <a href="https://example.com" target="_blank">Website here</a>
+        <a href="https://concierge.umbr.in/for-brands" target="_blank">Website here</a>
       </td>
+<td></td>
     </tr>
 
     <tr>
       <td><strong>Deck</strong></td>
       <td>
-        <a href="https://example.com" target="_blank">See online</a>
+        <a href="https://drive.google.com/file/d/16PzQgE1IcsHLL-Ii8LO4ZRWmgpAx7P9l/view?usp=sharing" target="_blank">See online</a>
       </td>
       <td>
-        <a href="https://example.com" target="_blank">Download PDF</a>
+        <a href="https://drive.google.com/file/d/16PzQgE1IcsHLL-Ii8LO4ZRWmgpAx7P9l/view?usp=sharing" target="_blank">Download PDF</a>
       </td>
     </tr>
   </table>
