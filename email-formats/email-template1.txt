@@ -70,8 +70,6 @@ Hey {Name},<br><br>
     <a href="tel:+918595607291">call</a>.
     Keen to work together!
   </p>
-
-<img src="https://drive.google.com/file/d/18cW0vUf9czuECWULq-N9APi6PFlhFgLe/view?usp=sharing" alt="UMBR - High Impact Billboard Campaigns" width="520" style="display: block; max-width: 100%; border-radius: 6px;"/>
   <br><br>
 
   <p>
